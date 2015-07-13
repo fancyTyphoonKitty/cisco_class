@@ -12,6 +12,3 @@ def getRouter(rtr):
 
     return 'no router found.'
 
-'''
-Test
-'''
